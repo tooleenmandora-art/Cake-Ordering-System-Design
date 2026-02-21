@@ -34,9 +34,9 @@ The system design includes:
 
 ---
 
-## 📂 Project Files
+## 📂 Project File
 
-- [Final Report](SW223_FinalLabReport.pdf)
+- [Final Report](Cake-Ordering-System-Report.pdf)
 
 ---
 
