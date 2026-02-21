@@ -1,7 +1,7 @@
 # Cake Ordering System Design
 Software Engineering Project
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents the analysis and design of a Cake Ordering System that allows customers to customize and order cakes online.
 
@@ -9,7 +9,7 @@ The system focuses on improving communication between customers and cake shop ow
 
 ---
 
-## 📊 System Analysis
+##  System Analysis
 
 The project includes:
 
@@ -22,7 +22,7 @@ The project includes:
 
 ---
 
-## 🧩 System Design
+##  System Design
 
 The system design includes:
 
@@ -34,9 +34,9 @@ The system design includes:
 
 ---
 
-## 📂 Project File
+##  Project File
 
-- [Final Report](Cake-Ordering-System-Report.pdf)
+- [[Cake Ordering System Report](Cake-Ordering-System-Report.pdf)
 
 ---
 
