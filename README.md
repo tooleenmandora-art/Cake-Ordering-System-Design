@@ -36,7 +36,7 @@ The system design includes:
 
 ##  Project File
 
-- [[Cake Ordering System Report](Cake-Ordering-System-Report.pdf)
+- [Cake Ordering System Report](Cake-Ordering-System-Report.pdf)
 
 ---
 
